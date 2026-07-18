@@ -1,0 +1,15 @@
+# Wickra Genome
+
+> A vector database of the whole market: every asset as a live feature vector over the streaming indicators, with similarity search, clustering and anomaly detection over microstructure DNA, byte-identical across ten languages. Each asset's shape — momentum, volatility, flow and microstructure signature — becomes a feature vector, one coordinate per wickra-core indicator.
+
+Wickra Genome builds each asset's vector from the same wickra-core indicators the rest of the ecosystem uses, then runs similarity search, seeded k-means clustering and anomaly scoring over the vectors: find every asset behaving like X right now, cluster the market into regimes, or flag the assets whose DNA has gone anomalous. The core is reachable from Rust, Python, Node.js, WASM and — over a C ABI — C, C++, C#, Go, Java and R, plus a reference CLI. Released under the MIT OR Apache-2.0 license.
+
+## Source and packages
+- [GitHub](https://github.com/wickra-lib/wickra-genome): Source, issues, and releases.
+- [crates.io](https://crates.io/crates/wickra-genome): Rust crate.
+- [PyPI](https://pypi.org/project/wickra-genome/): Python package.
+- [npm](https://www.npmjs.com/package/wickra-genome): Node package.
+
+## Ecosystem
+- [Wickra](https://wickra.org): The core streaming-indicator library the ecosystem is built on.
+- [Docs](https://docs.wickra.org): Documentation for the Wickra core.
