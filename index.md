@@ -16,7 +16,7 @@ hero:
       link: https://github.com/wickra-lib/wickra-genome
     - theme: alt
       text: GenomeSpec & metrics
-      link: https://github.com/wickra-lib/wickra-genome/blob/main/docs/SPEC.md
+      link: https://github.com/wickra-lib/wickra-genome/blob/main/docs/FEATURES.md
     - theme: alt
       text: API
       link: /api/rust
