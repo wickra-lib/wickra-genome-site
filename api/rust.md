@@ -25,4 +25,4 @@ println!("{neighbours:?}");
 
 - [crates.io/crates/wickra-genome](https://crates.io/crates/wickra-genome) - [docs.rs](https://docs.rs/wickra-genome)
 - [Source & examples](https://github.com/wickra-lib/wickra-genome/tree/main/examples/rust)
-- [GenomeSpec & metrics](https://github.com/wickra-lib/wickra-genome/blob/main/docs/SPEC.md)
+- [GenomeSpec & metrics](https://github.com/wickra-lib/wickra-genome/blob/main/docs/FEATURES.md)
