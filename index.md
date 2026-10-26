@@ -33,7 +33,7 @@ features:
     details: "Seeded k-means clustering groups the market into regimes by microstructure DNA, and anomaly scoring flags the assets whose shape has gone strange."
   - icon: 📈
     title: One coordinate per indicator
-    details: "Vectors are built from the same 514 indicators of the Wickra core the rest of the ecosystem uses — the same numbers a backtest or a live chart sees, turned into geometry."
+    details: "Vectors are built from the 495 indicators the backtest registry resolves for the whole ecosystem — the same numbers a backtest or a live chart sees, turned into geometry."
   - icon: 🌐
     title: Ten languages, one vector space
     details: "The core is a JSON-over-C-ABI data API (Genome::command_json) in Rust, Python, Node.js, WASM, C, C++, C#, Go, Java and R. A developer in any language queries the same market."
@@ -143,7 +143,7 @@ Construct a `Genome` from the JSON spec, `build` the vectors, then `similar`,
 ## Built on the Wickra core
 
 Wickra Genome is part of the [Wickra](https://wickra.org) ecosystem. It builds each
-asset's vector from the 514 indicators of
+asset's vector from the 495 indicators the backtest registry resolves from
 [`wickra-core`](https://github.com/wickra-lib/wickra) — the same numbers a backtest
 or a live chart sees, turned into a searchable geometry of the whole market.
 

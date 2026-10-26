@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://genome.wickra.org"><img src="https://raw.githubusercontent.com/wickra-lib/.github/main/profile/wickra-banner.svg?v=514-8" alt="Wickra Genome — a vector database of the whole market — every asset a 514-dimensional live vector, for similarity search, clustering and anomaly detection" width="100%"></a>
+  <a href="https://genome.wickra.org"><img src="https://raw.githubusercontent.com/wickra-lib/.github/main/profile/wickra-banner.svg?v=514-8" alt="Wickra Genome — a vector database of the whole market — every asset a 495-dimensional live vector, for similarity search, clustering and anomaly detection" width="100%"></a>
 </p>
 
 [![Built on Wickra](https://raw.githubusercontent.com/wickra-lib/.github/main/profile/badges/wickra-genome-site/built-on.svg)](https://github.com/wickra-lib/wickra)
@@ -15,7 +15,7 @@ Built with [VitePress](https://vitepress.dev).
 The structure mirrors [webpage](https://github.com/wickra-lib/webpage)
 (wickra.org) and [wickra-docs](https://github.com/wickra-lib/wickra-docs)
 (docs.wickra.org): shared header, footer, theme, badge pipeline and workflows.
-**Wickra Genome** — a vector database of the whole market — every asset a 514-dimensional live vector, for similarity search, clustering and anomaly detection. The library itself is
+**Wickra Genome** — a vector database of the whole market — every asset a 495-dimensional live vector, for similarity search, clustering and anomaly detection. The library itself is
 [`wickra-lib/wickra-genome`](https://github.com/wickra-lib/wickra-genome); its README carries the install line and a quick start for every language.
 
 ## Develop

@@ -1,7 +1,7 @@
 {
   "name": "Wickra Genome",
   "short_name": "Wickra Genome",
-  "description": "Parallel multi-symbol screening over 514 streaming indicators.",
+  "description": "A vector database of the whole market — every asset a 495-dimensional live vector, for similarity search, clustering and anomaly detection.",
   "icons": [
     { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
     { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }

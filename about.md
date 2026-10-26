@@ -15,8 +15,8 @@ byte-for-byte identical results.
   X right now, ranked by cosine or Euclidean distance in the normalized space.
 - **Cluster and flag.** Seeded k-means clustering groups the market into regimes,
   and anomaly scoring flags the assets whose DNA has gone strange.
-- **One coordinate per indicator.** Vectors are built from the same 514 indicators
-  of the Wickra core the rest of the ecosystem uses — the same numbers a backtest
+- **One coordinate per indicator.** Vectors are built from the 495 indicators the backtest
+  registry resolves for the whole ecosystem — the same numbers a backtest
   or a live chart sees, turned into geometry.
 
 ## Why it exists
